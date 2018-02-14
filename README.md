@@ -18,4 +18,4 @@ This repo contains details about each team member.
 
 
 ## About
-
+* **Hadeel** - Like watching Anime and Asian dramas
