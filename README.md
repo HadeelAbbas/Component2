@@ -22,4 +22,6 @@ This repo contains details about each team member.
 * **Merna Yasser** - Reading, cooking, riding bikes
 * **Youstina Samir** - Long walks, art and dogs.
 * **Sandra Sameh**- Like watching friends, talking with people.
+* **Monica Bassem**- scout leader, cultures explorer.
+* **Mary Hany**- to be updated.
 
