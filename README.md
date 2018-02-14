@@ -18,6 +18,7 @@ This repo contains details about each team member.
 
 
 ## About
-Youstina Samir - Long walks, art and dogs.
-Merna Yasser - Reading, cooking, riding bikes
+* **Hadeel** - Like watching Anime and Asian dramas
+* **Merna Yasser** - Reading, cooking, riding bikes
+* **Youstina Samir** - Long walks, art and dogs.
 
