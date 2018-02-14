@@ -18,7 +18,7 @@ This repo contains details about each team member.
 
 
 ## About
-* **Hadeel** - Like watching Anime and Asian dramas
+* **Hadeel Abbas** - Like watching Anime and Asian dramas
 * **Merna Yasser** - Reading, cooking, riding bikes
 * **Youstina Samir** - Long walks, art and dogs.
 * **Sandra Sameh**- Like watching friends, talking with people.
