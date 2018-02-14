@@ -23,5 +23,5 @@ This repo contains details about each team member.
 * **Youstina Samir** - Long walks, art and dogs.
 * **Sandra Sameh**- Like watching friends, talking with people.
 * **Monica Bassem**- scout leader, cultures explorer.
-* **Mary Hany**- to be updated.
+* **Mary Hany**- Cooking and meeting new people.
 
