@@ -18,5 +18,6 @@ This repo contains details about each team member.
 
 
 ## About
+Youstina Samir - Long walks, art and dogs.
 Merna Yasser - Reading, cooking, riding bikes
 
