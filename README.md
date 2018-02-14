@@ -18,4 +18,5 @@ This repo contains details about each team member.
 
 
 ## About
+Merna Yasser - Reading, cooking, riding bikes
 
